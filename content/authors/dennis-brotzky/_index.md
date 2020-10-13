@@ -2,7 +2,6 @@
 title: Dennis Brotzky
 bio: |
  My name is Jeff
-  joys and of course, your Twitter handle.
 avatar: /images/dennis-brotzky.jpg
 featured: true
 social:
