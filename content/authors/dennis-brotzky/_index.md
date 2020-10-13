@@ -1,8 +1,8 @@
 ---
-title: Dennis Brotzky
+title: Taillefer Thibaut
 bio: |
- My name is Jeff
-avatar: /images/dennis-brotzky.jpg
+My name is Jeff
+avatar: https://i.imgur.com/CAGndOl.png
 featured: true
 social:
   - title: unsplash
